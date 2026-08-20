@@ -2,7 +2,11 @@
 
 ## Student
 
-**Name:** Gabriel Mwila
+**Names:** Gabriel Mwila 2410234
+          Mwelwa Kondwani 2410395
+          Martin Muloshi 2410009
+          Joshua Mazaza 2410123
+          Innocent Kabwe 2410109
 
 ## Course
 
